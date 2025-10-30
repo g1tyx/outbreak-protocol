@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[7647,["61","static/chunks/61-04807b3c84d138a0.js","405","static/chunks/405-535000067f8af99b.js","177","static/chunks/app/layout-9ad88bc334dafd5d.js"],"GameInitializer"]
+3:"$Sreact.suspense"
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[4164,["61","static/chunks/61-04807b3c84d138a0.js","405","static/chunks/405-535000067f8af99b.js","177","static/chunks/app/layout-9ad88bc334dafd5d.js"],"Toaster"]
+7:I[3864,["61","static/chunks/61-04807b3c84d138a0.js","405","static/chunks/405-535000067f8af99b.js","177","static/chunks/app/layout-9ad88bc334dafd5d.js"],"Analytics"]
+8:I[894,[],"ClientPageRoot"]
+9:I[5899,["61","static/chunks/61-04807b3c84d138a0.js","268","static/chunks/268-14eea9bfc87f3aee.js","405","static/chunks/405-535000067f8af99b.js","135","static/chunks/135-9be35b1dd6ccb459.js","678","static/chunks/app/prestige/page-916fd85f6de7af98.js"],"default"]
+c:I[9665,[],"OutletBoundary"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[9665,[],"MetadataBoundary"]
+13:I[6614,[],""]
+:HL["/_next/static/media/028c0d39d2e8f589-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5b01f339abf2f1a5.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/a123265d1cc22181.css","style"]
+:HL["/_next/static/css/6ad9841b43ad2bc9.css","style"]
+0:{"P":null,"b":"MsRa4v4MtjRXDIZxPu1pb","p":"","c":["","prestige",""],"i":false,"f":[[["",{"children":["prestige",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a123265d1cc22181.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/6ad9841b43ad2bc9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark","children":["$","body",null,{"className":"font-sans antialiased __variable_fb8f2c __variable_f910ec","children":[["$","$L2",null,{"children":["$","$3",null,{"fallback":null,"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex min-h-screen items-center justify-center","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"text-4xl font-bold","children":"404"}],["$","p",null,{"className":"text-muted-foreground","children":"Page not found"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","$L6",null,{}],["$","$L7",null,{}]]}]}]]}],{"children":["prestige",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L8",null,{"Component":"$9","searchParams":{},"params":{},"promises":["$@a","$@b"]}],"$undefined",null,["$","$Lc",null,{"children":["$Ld","$Le",null]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","XBwYc-IgwW0w7-SMbrQHF",{"children":[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$L11",null,{"children":"$L12"}]]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
+a:{}
+b:{}
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+e:null
+12:[["$","title","0",{"children":"Outbreak Protocol - Global Response Command"}],["$","meta","1",{"name":"description","content":"Manage the global response to a pandemic outbreak"}],["$","meta","2",{"name":"generator","content":"v0.app"}],["$","link","3",{"rel":"icon","href":"/favicon.ico"}],["$","link","4",{"rel":"icon","href":"/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","5",{"rel":"icon","href":"/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","6",{"rel":"icon","href":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"}],["$","link","7",{"rel":"icon","href":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],["$","link","8",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}]]
